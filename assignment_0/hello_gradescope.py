@@ -5,6 +5,5 @@
 # Due Date: 10/3/22
 # Description: First Assignment
 
-
 def gradescope_test():
     return 42
